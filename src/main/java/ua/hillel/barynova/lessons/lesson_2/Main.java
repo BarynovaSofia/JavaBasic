@@ -11,8 +11,8 @@ public class Main {
 
         char degreeSymbol = '\u00B0';
 
-        System.out.println("Eiffel Tower (Paris, France)" + "\n" + latitudeEiffelTower + degreeSymbol + "N" + "\n" + longitudeEiffelTower + degreeSymbol + "E" + "\n");
-        System.out.println("Great Wall of China (Badaling, China)" + "\n" + latitudeGreatWall + degreeSymbol + "N" + "\n" + longitudeGreatWall + degreeSymbol + "E");
+        System.out.println("Eiffel Tower (Paris, France) \n" + latitudeEiffelTower + degreeSymbol + "N \n" + longitudeEiffelTower + degreeSymbol + "E \n");
+        System.out.println("Great Wall of China (Badaling, China) \n" + latitudeGreatWall + degreeSymbol + "N \n" + longitudeGreatWall + degreeSymbol + "E");
 
 
 
