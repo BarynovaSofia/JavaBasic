@@ -1,6 +1,6 @@
 package ua.hillel.barynova.lessons.lesson_2;
 
-public class Main {
+public class Coordinates {
     public static void main(String[] args) {
 
         double latitudeEiffelTower = 48.8584;
